@@ -1,0 +1,11 @@
+Q1. Suppose you have a Cyber Security Center. Write a C++ program that takes
+a complete name (first and last name) in a char array and user phone number in an
+int array and displays his/her first name with a hello message along phone
+number. display half of the number digits for security purposes.
+Example:
+Enter Your Name: Muhammad Murtaza
+Enter your Cell #: 03080143575
+
+Welcome To Murtaza's Security Hub
+Hello Muhammad!
+03425*****4
